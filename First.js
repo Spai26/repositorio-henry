@@ -1,0 +1,1 @@
+console.log("I'm first folder js for the index.   I'm Worked !!! ")
